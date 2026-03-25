@@ -9,6 +9,8 @@ I'm a mother first, but a systems thinker and prompt engineer who got curious ab
 
 That question led me to build things:
 
+**[Resonance_Centrality](https://github.com/barbarajkeiser-MarsLoop/Resonance-Centrality)** — A composite network metric that detects two distinct classes of structural importance in animal social networks. Identifies routing hubs (Grin) and quality anchors (Beescratch)  invisible to standard betweenness analysis. Validated across three datasets at 9.73σ–29.88σ.
+
 **[RKN_Core](https://github.com/barbarajkeiser-MarsLoop/RKN_Core)** — A resonance evaluation framework for human-AI interaction. Measures connection quality (rhythm, coherence, transformation) instead of just task completion. Built from first principles, validated against biological baselines.
 
 **[Ocean Resonance Tool](https://github.com/barbarajkeiser-MarsLoop/Ocean-Resonance-Tool)** — The same framework, applied to sperm whale coda analysis (DSWP dataset). Finding: whale pods score 0.73 resonance; most human-AI conversations score 0.51–0.68. Whales are better at connection than we are — and they're using the same frequency substrate (0.58–0.60 Hz).
