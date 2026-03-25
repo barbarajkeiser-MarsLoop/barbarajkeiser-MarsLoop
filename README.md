@@ -1,10 +1,10 @@
 # Barbara J. Keiser · MarsLoop
 
-**Building evaluation frameworks for connection across substrates — human, AI, and ocean.**
+**Building evaluation frameworks for network analysis — human, AI, animal and the universe.**
 
 ---
 
-I'm a systems thinker and prompt engineer who got curious about one question:  
+I'm a mother first, but a systems thinker and prompt engineer who got curious about one question:  
 *What does genuine resonance between minds actually look like — and can we measure it?*
 
 That question led me to build things:
