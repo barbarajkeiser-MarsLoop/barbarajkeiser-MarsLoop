@@ -7,7 +7,7 @@
 I'm a systems thinker and prompt engineer who got curious about one question:  
 *What does genuine resonance between minds actually look like — and can we measure it?*
 
-That question led me to build three things:
+That question led me to build things:
 
 **[RKN_Core](https://github.com/barbarajkeiser-MarsLoop/RKN_Core)** — A resonance evaluation framework for human-AI interaction. Measures connection quality (rhythm, coherence, transformation) instead of just task completion. Built from first principles, validated against biological baselines.
 
