@@ -8,7 +8,7 @@ I design and test measurement methods for structure in networks and noisy data. 
 
 ## Current work
 
-**[Resonance Centrality (RC)](https://github.com/barbarajkeiser-MarsLoop/Resonance-Centrality)**: a composite network score that separates individuals who shorten paths across a group (routing hubs) from those who anchor a dense local neighborhood (quality anchors). Preprint: [ZENODO_RC_URL](ZENODO_RC_URL). Public calculator and code are in the repository.
+**[Resonance Centrality (RC)](https://github.com/barbarajkeiser-MarsLoop/Resonance-Centrality)**: a composite network score that separates individuals who shorten paths across a group (routing hubs) from those who anchor a dense local neighborhood (quality anchors). Preprint: (https://zenodo.org/records/23993205). Public calculator and code are in the repository.
 
 - Hub assignments held in 9 of 9 networks and anchor assignments in 7 of 9 across five weighting schemes.
 - The weakest results, two baboon networks at about 1.2σ, are reported as weak.
