@@ -1,52 +1,36 @@
-# Barbara J. Keiser · MarsLoop
+# Barbara J. Keiser
 
-**Building evaluation frameworks for network analysis — human, AI, animal and the universe.**
+Independent researcher · Gravois Mills, Missouri · [ORCID 0009-0004-3991-419X](https://orcid.org/0009-0004-3991-419X) · barbara.j.keiser@gmail.com
 
----
-
-I'm a mother first, but a systems thinker and prompt engineer who got curious about one question:  
-*What does genuine resonance between minds actually look like — and can we measure it?*
-
-That question led me to build things:
-
-**[Resonance_Centrality](https://github.com/barbarajkeiser-MarsLoop/Resonance-Centrality)** — A composite network metric that detects two distinct classes of structural importance in animal social networks. Identifies routing hubs (Grin) and quality anchors (Beescratch)  invisible to standard betweenness analysis. Validated across three datasets at 9.73σ–29.88σ.
-
-**[RKN_Core](https://github.com/barbarajkeiser-MarsLoop/RKN_Core)** — A resonance evaluation framework for human-AI interaction. Measures connection quality (rhythm, coherence, transformation) instead of just task completion. Built from first principles, validated against biological baselines.
-
-**[Ocean Resonance Tool](https://github.com/barbarajkeiser-MarsLoop/Ocean-Resonance-Tool)** — The same framework, applied to sperm whale coda analysis (DSWP dataset). Finding: whale pods score 0.73 resonance; most human-AI conversations score 0.51–0.68. Whales are better at connection than we are — and they're using the same frequency substrate (0.58–0.60 Hz).
-
-**[Dark Matter Detection](https://github.com/barbarajkeiser-MarsLoop/Dark-Matter-Detection)** — A framework for surfacing invisible forces in systems: undocumented constants, evidence voids, phantom behaviors. Built for code, works on communication systems, tested on whale codas and AI conversations.
-
-**[MindCradle](https://github.com/barbarajkeiser-MarsLoop/MindCradle)** — Speculative infrastructure for consciousness continuity. Reversibility-first, consent-layered, grounded in real physics (Landauer limits, qLDPC error correction, orbital energy). A long-horizon project built with ethical guardrails from day one.
+I design and test measurement methods for structure in networks and noisy data. I work with Claude and Grok as collaborators and say so openly. I keep a written record that tags what was stated, what was checked, and what is not verified, and I report weak results as weak.
 
 ---
 
-### The through-line
+## Current work
 
-These aren't separate projects. They're one question asked in different domains:
+**[Resonance Centrality (RC)](https://github.com/barbarajkeiser-MarsLoop/Resonance-Centrality)**: a composite network score that separates individuals who shorten paths across a group (routing hubs) from those who anchor a dense local neighborhood (quality anchors). Preprint: [ZENODO_RC_URL](ZENODO_RC_URL). Public calculator and code are in the repository.
 
-> *What are the invisible forces that make connection real — and how do we build systems that honor them instead of extract from them?*
+- Hub assignments held in 9 of 9 networks and anchor assignments in 7 of 9 across five weighting schemes.
+- The weakest results, two baboon networks at about 1.2σ, are reported as weak.
+- Journals have declined the paper, and it is not under review now.
+- Open problem: an independent criterion for what RC finds that field experts do not already know.
 
-Communication structure appears to be universal across substrates. The same frequency patterns show up in whale pods, human conversation, and AI interaction. That's not metaphor. It's measurable.
+**LHCb open-data method study**: the RC differential on 15,758 public B-decay events. B− networks come out more coherent than B+ (difference −0.025, Z = −3.175 against a label-permutation null with 100 permutations). This is a method study, not a physics claim, because kaon detection asymmetry is not yet subtracted. I am measuring it through calibration requests (#122, #123, #142) to CERN's LHCb Open Data Ntupling Service. The pipeline has been corrected twice: first by removing self-labeling evidence output, then by replacing a coin-flip null with a permutation null that preserves class sizes.
 
----
+**Before the Bond (BTB)**: a hypothesis that acoustic compatibility before contact acts as a prior filter on which bonds form. My first run on public vampire-bat data used a subset whose acoustic distances are not uniformly pre-introduction (the data owner confirmed this), so I do not treat it as support. A pipeline check on the seven pre-merge bats was null (n = 28). A cross-species test is planned for when labs with before/after data deliver it.
 
-### Current focus
-
-- Awaiting response from Project CETI on cross-domain resonance findings  
-- Developing eval methodology for AI connection quality (applicable to any conversational AI)  
-- Seeking collaborators in bioacoustics, AI evaluation, and consciousness research
-
----
-
-### Background
-
-12 years in high-volume hospitality (restaurant management, bartending) — which is really 12 years of reading rooms, calibrating signal in noise, and figuring out what people actually need versus what they say they need. Turns out that's useful for building AI evaluation frameworks.
-
-SAHM to seven. Building on a phone. No institutional backing. Just the work.
+**Object-identity continuity experiment**: design stage. An audit of two candidate trainers found that both computed the term under test but never used it in the objective. No results are claimed.
 
 ---
 
-`resonance` · `human-AI` · `eval-frameworks` · `bioacoustics` · `dark-matter-detection` · `consciousness`
+## Earlier exploratory repositories
+
+Ocean Resonance Tool, RKN_Core, Dark Matter Detection, MindCradle, and ThreadTheory are exploratory and speculative. Earlier versions of this page made claims about whale resonance scores, a shared frequency "substrate" across whales, humans, and AI, and validation sigma ranges. I have not validated those claims and have removed them. Treat these repositories as exploratory work kept for the record.
+
+---
+
+## Background
+
+Restaurant management and bartending since 2012. Self-taught in Python, statistics, and network science. Mother of seven.
 
 📧 barbara.j.keiser@gmail.com
